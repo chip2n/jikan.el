@@ -1,0 +1,2 @@
+* jikan.el
+Emacs library for interacting with the [[https://jikan.moe/][Jikan]] API.
